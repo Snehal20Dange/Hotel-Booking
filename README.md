@@ -21,6 +21,7 @@ Assumptions
 6.	Cancellations result in vacant rooms for the booked length of time.
 
 7.	Clients make hotel reservations the same yar they make cancellations.
+	
 Research Questions
 1.	What are the variables that affect hotel reservation cancellations?
 
@@ -35,6 +36,7 @@ Hypothesis
 2.	When there is a longer waiting list, customers tend to cancel more frequently.
 
 3.	 The majority of clients are coming from offline travel agents to make their reservations.
+	 
 Suggestions
 
 1 Cancellation rates rise as the price does. In order to prevent cancellations of reservations, hotels could work on their pricing strategies and try to lower the rates of specific hotels based on locations. They can also provide some discounts to the customers.
